@@ -1,7 +1,7 @@
 # extraction-automatique-des-donnees-de-CV
 Extraction automatique des données de Curriculum Vitae avec Python
 
-cd cv-extractor
+cd extraction-automatique-des-donnees-de-CV
 
 python3 -m venv .venv
 
