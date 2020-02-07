@@ -9,5 +9,5 @@ pip install -r pdfminer3k==1.3.1
 
 pip install -r splitty==0.0.7
 
-python cv_extract.py
+python petitapetit.py
 
