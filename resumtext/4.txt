@@ -1,0 +1,69 @@
+ Dissirama ESSO
+MASTER DE RECHERCHE EN SYSTEMES INTELLIGENTS ET MULTIMEDIA
+ linkedin.com/in/dissies  github.com/dissi
+ +84 93-6148-875  dissira@gmail.com
+ KTX NGOAI NGU,Hanoï, VietNam
+  FORMATION
+ 2018 – 2020 Master en Informatique option Systèmes Intelligents et Multimédia de l’Institut Francophone Interna-
+tional (IFI), UNIVERSITÉ NATIONALE DU VIETNAM (UNV) en double Diplomation avec l’UNIVERSITE DE LA
+ROCHELLE, FRANCE (ULR). Hanoi, VIETNAM
+Licence Professionnelle Information, Spécialité Génie Logiciel du Centre Informatique et de Calcul (CIC),
+Université de Lomé (UL) Lomé, TOGO
+ 2010 – 2012
+ 2007 – 2009 Diplôme Universitaire de Technologies en informatique (DUT) du Centre Informatique et de Calcul (CIC),
+ Université de Lomé (UL) Lomé, TOGO
+  PROJETS ACADÉMIQUES
+ DIGITAL COUPON AVEC BLOCKCHAIN
+ 2018 - 2019
+ Conception d’une plateforme Web basée sur la technologie blockchain pour assurer la création, la validation et l’utilisa-
+tion des coupons électroniques sécurisés et leur distribution à travers un réseau de magasins ou de boutiques. Cette plateforme
+doit être publique et décentralisée entre les acteurs.
+ ∠ Installation de l’environnement de travail : NodeJs, Truffle, Ganache, Metamask, Remix, Visual Studio
+∠ Ecriture des smarts contracts avec le langage Solidity
+∠ Création d’une application avec VueJS et Web3Js pour communiquer avec les smarts contracts.
+ Ethereum Solidity
+ Smart Contracts Web3
+ VueJs
+ Truffle
+ Ganache
+ Remix
+ Visual Studio Code
+  EXPÉRIENCE PROFESSIONELLE
+ Septembre 2016
+Octocbre 2018
+ Chef Division Etude Developpement, NOUVELLE SOCIÉTÉ COTONNIÈRE DU TOGO, TOGO
+ ∠ Participation à l’étude et à la mise en œuvre des projets informatiques
+∠ Conception et intégration d’applications
+∠ Suivi, validation et intégration des développements externalisés
+∠ Gestion et administration des systèmes de gestion des bases de données
+∠ Support technique et Veille technologique
+ Septembre 2013
+Septembre 2016
+ Analyste | Programmeur, NOUVELLE SOCIÉTÉ COTONNIÈRE DU TOGO, TOGO
+ ∠ Analyse, Conception et Développement, Adaptation maintenances des progiciels de la NSCT
+∠ Traitement des requêtes sur les serveurs de donnée de la NSCT et édition des états
+∠ Assistance aux utilisateurs et au traitement de la Paie
+  COMPÉTENCES
+ Programmation
+Frameworks
+ Java J2EE, Python, GoLang, R, PHP, Javascript
+Spring, Spring Boot, Angular,React.js (React/Redux), ExpressJS, NodeJS,VueJS,Web3JS
+ Bases de données MySQL, PostgreSQL, Microsoft SQL Server
+ Applications Blockchain
+ Modélisation et Methode
+Outils et Systèmes d’exploitation
+Autres Compétences
+ Solidity, Smart Contracts, dApps, DAO, Ethereum, TestRPC, Ganache, Truffle, Remix, Meta-
+mask, Hyperledger Fabric, Hyperledger Composer
+UML, Merise et Méthode Agile (SCRUM).
+(Eclipse, Visual Studio Code,Netbeans,git, github); (Windows , Linux
+Simulation des systèmes multi-agent :Gama; Vision par Ordinateur :OpenCV;Machine Lear-
+ning et Deep Learning :Keras, TensorFlow;Data Mining : Tanagra; Bureautique :LATEX
+  RÉFÉRENCES
+Dr HO Tuong Vinh
+Directeur Adjoint à l’Institut Francophone International, HANOI, VIETNAM
+  ho.tuong.vinh@ifi.edu.vn
+ +84 904 179 787
+ 5 SEPTEMBRE 2019
+ ESSO DISSIRAMA - CV
+ 1

@@ -1,0 +1,211 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ RICHARD LAMAH 
+ Data science engineer 
+ C o n t a c t  
+ Projects 
+ +84-936-167-510 
+ r l a m a h 0 5 @ g m a i l . c o m  
+ Building C3 (2nd Floor),144 Xuan 
+Thuy,Cau Giay,Hanoi Vietnam 
+ linkedin.com/in/rlamah05/ 
+ github.com/rlamah05 (5 projects) 
+ s i t e s . g o o g l e . c o m / v i e w / r i c
+h a r d l a m a h  
+ E D U C A T I O N  
+ MASTER II || Engineering Digital Content 
+Company (ICON) || University of La Rochelle 
+(ULR) Rochelle - France [In progress] 
+ 
+MASTER II Search || Intelligent Systems 
+and Multimedia || International 
+Francophone Institute (IFI) Hanoi -Vietnam [In 
+progress]  
+ 
+MASTER I || Intelligent Systems and 
+Multimedia || International Francophone 
+Institute (IFI)||Hanoi - Vietnam 2018 -2019 
+ 
+MASTER I || M.I.A.G.E (APPLIED COMPUTER 
+METHODS TO BUSINESS MANAGEMENT) 
+||Kofi Annan University of Guinea 
+||Conakry, Guinea 2013-2014|| 
+ 
+BACHELOR DEGREE || M.I.A.G.E (APPLIED 
+COMPUTER METHODS TO BUSINESS 
+MANAGEMENT)||Kofi Annan University of 
+Guinea||Conakry, Guinea 2012-2013 || 
+ 
+ S K I L L S  
+ • 
+ • 
+ Programming:Python,Java,PHP,R,HTML5/CS
+S3,Javascript 
+Frameworks : Hibernate/JPA,Spring MVC, 
+Bootstrap,NodeJS,AngulaJS,AWS,Docker 
+ •  Databases: MySQL, SQL Server, PostgreSQL  
+•  Methods:(UML,Merise),(Agile/Scrum) 
+• 
+ IDE Eclipse,Spyder,jupyter 
+notebook,VisualStudio,Adobe Photoshop 
+Project Management Tools: Git, Gantt-project, 
+Modeling tools UML/ Mérise 
+ • 
+  
+  
+ 
+ •  Neural Networks:  CNN, ANN, RNN 
+•  Computer Vision: Open CV  
+•  OPERATING SYSTEMS : UNIX/LINUX, 
+ WINDOWS, Mac OS 
+ 
+ A c h i e v e m e n t  
+ 
+ AI Grand Challenge HACKATHON Vietnam: 
+Hanoi, 6th, Deep Learning for the recognition of 
+human activity based on sensors to ensure the safety 
+of women and children,  July 12-14,2019 
+Team: IFI STUDENTS (4 people) 
+ 
+ 
+ 
+ 
+ 
+ Framed Personal Work : This project aims to study the methods, technique and 
+ tools for the stock market and to build a prototype. 
+Stock Market Prediction with Deep Learning || 8 months || (IFI) International 
+Francophone Institute, UNV Hanoi(Vietnam) || Nov.2018-Jun.2019 || 
+It was a supervised research project which is spread throughout the first year of Master. 
+ 
+Work: 
+Theoretical work 
+ Subject Analysis  
+ • 
+•  Bibliographic search 
+• 
+• 
+ State of Art 
+Proposed solution 
+ Practical work 
+ •  Algorithm used: RNN-LSTM 
+•  Date Set Used:  GOOGLE Stock Price (Historical prices 2009-2018) 
+•  Obtained result: Prediction rate =50,27%, MAE:mean absolute error=0.04 degrees 
+•  Used tools:Python,Numpy,Keras,Pandas 
+  
+ Face recognition in a video and saved in a file: ( Individual wor k) || Aout.-Nov.2019 || 
+0 
+ •  Goals: Recognize, crop and save faces as images from video 
+•  Used tools: Python, Open CV, face_recognition 
+  
+FULL CHANNEL IMAGE PROCESSING (Work in pair) || March-Jun.2019 || 
+ 
+       •      Description: Realization of a complete chain of image processing. 
+       •      Goals: Make pre-segmentation (conversion of grayscale images to make them easier 
+treatment), segmentation (use of OTSU algorithm on input images) and post-segmentation 
+(application of labelling the image regions by using the Canny OpenCV function to detect  
+edges in the images). 
+       •    Used Tools : C++, OpenCV. 
+Object Recognition : 
+Using SIFT detector to compute the keypoints and descriptors of the training set (dataset) and 
+from that we use the Flann based Matcher to recognize images classes from the test set also 
+display the confusion matrix. 
+      •     Used Tools : Python Open CV. 
+ A Web Application that Uses Customer's Emotion to Recommend Food [In progress]  
+Context: 
+ •  A simple web application that aims to recommend products to customers based 
+ on their emotions about other products.(in progress) 
+ •  Used tools: Python,Flask , passlib , Keras, Tensorflow, 
+ FFmpeg , SciPy, NumPy, Pandas 
+  
+ P R O F E S S I O N A L   E X P E R I E N C E  
+ French: Native language 
+ L a n g u a g e s  
+ • 
+•  English: Professional 
+ SYSTEMS / NETWORKS ADMINISTRATOR 
+ HADAFO MEDIAS (ESPACE FM,ESPACE TV) //Conakry-Guinea //Jan.2015-30 Sept.2018 
+ 
+INTERNSHIP,NETWORK ADMINISTRATOR AND WEB MASTER  
+HADAFO MEDIAS (ESPACE FM,ESPACE TV)//Conakry-Guinea//18th August 2014-05th 
+Dec.2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References 
+ 
+ 
+ 
+ 
+ 
+M. HO Tuong Vinh PhD, Deputy Director of the 
+  
+ 
+Francophone International Institute (IFI)  
+ 
+ 
+Tel: +84 904 179 787  
+ 
+Email: ho.tuong.vinh@ifi.edu.vn 
+ 
+ 
+  
+ 
+ 
+ 
+ 

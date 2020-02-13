@@ -1,0 +1,86 @@
+ (cid:211) +84-387-509-625
+ ‰ Hanoi,Vietnam
+ (cid:135) https://github.com/SALUPUATI
+ ‰ Kinshasa-RDCongo
+ ‰ Kinshasa-RDCongo
+ EMMANUELSALUPUATI
+Ǜ salupuati@gmail.com
+ﬂ https://www.linkedin.com/in/emmanuel-salu-puati-06a89698/
+RecherchedeStagedeMaster2enInformatique
+EXPERIENCESPROFESSIONNELLES
+ITNetworkandTelecomsEngineer
+COMTECHSarl
+(cid:17) Année2016–2018
+• Planication,Congurationetdépannageduréseau: Cisco,Mikrotik
+• GéstiondelaliaisonradiopointàpointavecleséquipementsUBIQ-
+UITINETWORKS:UBNTNanoStationM2/M5,UBNTRocketsM2/M5,
+PowerStationM,Bullets.
+NetworkInstructor
+CIF(CentreInternationaldesFormationsProfessionnelles)
+(cid:17) Mai2016–Novembre2017
+• FormateurenRéseauxInformatiqueCisco: CCNA1,CCNA2etCCNA3
+• Formateurenmainténancedesordinateurs
+PROJETSMASTER
+TravailPersonnelEncadré(TPE)
+(cid:17) duréeduprojet: 8mois
+• Analyseautomatiquedesdocumentspardétectionetextractionde
+textesenutilisantlatechniqueRegex,avecPython: tesseract-ocr,
+Pandas,BeautifullSoup,JupyterNotebook.
+SimulationavecGAMAPlateforme
+(cid:17) duréeduprojet: 3semaines
+ProjetduModuledeSystèmesMulti-Agents,surlaConceptionetIm-
+plémentationd’uneSimulationpourlaGéstiond’unParkingAutomo-
+bileavecGAMA.
+RÉFÉRENCES
+Dr.HoTuongVinh
+Ǜ ho.tuong.vinh@i.edu.vn
+R InstitutFrancophoneInternational: EnseignantChercheur,Respons-
+ableMaster.
+Mr.SergeNZITAPAKU
+Ǜ sergepaku@comtech-rdc.com
+R COMTECHSarl,Kinshasa-RDCongo: DirecteurGénéral.
+ ‰ Hanoï-Vietnam
+ ‰ Hanoï-Vietnam
+ ‰ Hanoï-Vietnam
+ ‰ Kinshasa-RDCongo
+ EDUCATION
+MasterenSystèmes,RéseauxetInfrastruc-
+turesVirtuelles(2ans)
+(cid:17) 2019–2021
+• InstitutFrancophoneInternational(IFI)-
+UniversitéNationaleduVietnam(VNU),
+endoublediplomationavecl’Université
+ClaudeBernardLyon1(France).
+LicenceenGénieInformatique(5ans)
+(cid:17) 2009-2014
+• UniversitédeKinshasa,Facultédes
+Sciences,DépartementdesMaths-
+Informatique.
+RÉALISATIONS
+• Déploiementd’unréseauMPLSL3VPN
+avecroute-targetImport-ExportetMPLS
+L2VPNavecGNS3
+• Conguration: BGP-VPN,DMVPN,VRF
+Routing,MulticastRouting,Ipv4-GRE-
+into-Ipv6,eBGP,iBGP,Ospfv2,Ospfv3,
+Ipv6GRETunneling,IPSec-VPNavec
+GNS3
+• CloudetVirtualisation: OpenStack,
+Docker
+COMPÉTENCES
+• Réseaux: Cisco,Mikrotik
+• LiaisonPointtoPoint: UbiquitiTechnolo-
+gies.
+• GSM,WiMAX,LTE
+• Système: Ubuntu,Débian,Windows
+Server2012
+• Supervision: Nagios
+• BDD:MySQL,OracleDatabase11g
+• Python,Java,C++
+LANGUES
+Français
+Anglais
+Vietnamien
+ ○ ○ ○ ○ ○
+ ○ ○ ○ ○ ○
+ ○ ○ ○ ○ ○

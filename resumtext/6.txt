@@ -1,0 +1,96 @@
+ NIKUEAMASSAHDJAHLINHERVE
+ ‰ C3(2èmeétage),144XuanThuy,CauGiay,HanoiVietnam.
+ ﬁ nikue.herve.com
+ EXPERIENCE
+PROFESSIONNELLE
+Stagedeperfectionnement
+CaisseNationaledeSécuritéSociale-Togo
+(cid:17) Jul. 2017–Sept. 2017
+Stageauservicesinformatiques.
+Déploiementdesapplications,
+administrationrésauxinformatiques
+Stagedeﬁndeformation
+SociétédesPostesduTogo
+(cid:17) Sept2016–Dec. 2016
+Miseenplaced’unoutillibredesupervision
+réseauxinformatiquesavecnotiﬁcationpar
+ SMSCOMPETENCES
+ (cid:135) HNik
+ ‰ Lomé,Togo
+ (cid:211) +84934598646
+ ‰ Hanoi,Vietnam
+ Togolais,néàLomé
+R hervenikue@gmail.com
+ﬂ DHNik
+EDUCATION
+MasterInformatique
+OptionSystèmesIntelligentsetMultimédia
+(cid:17) 2018–2020
+• InstitutFrancophoneInternational(IFI)-UniversitéNationaledu
+Vietnam
+• Masterendoublediplomationavecl’UniversitéLaRochelleen
+France
+LicenceInformatique
+OptionSystèmesInformatiquesetRéseaux
+(cid:17) 2013–2017
+• UniversitédeLomé
+PROJETSENMASTER
+Classiﬁcationdesmaladiesdesplantes
+• Classiﬁcationautomatiquedesmaladiesdesplantesenutilisantdu
+deeplearning.
+• Outils/Technologies: Python,Tensorﬂow,Réseauxdeneurones
+convolutifs,GoogleColaboratory,inceptionV3.
+• Lien: deep-learning-for-plant-diseases-detection
+ApplicationMobilepourlaclassiﬁcationdesmaladiesdes
+plantes
+• Identiﬁcationdesmaladiesdesplantesaveclestéléphonesportables.
+• Outils/Technologies: TensorﬂowLite,AndroidStudio,Java.
+Segmentationetdétectiondecontourd’uneimage
+• Implémentationduﬁltrecannypourladétectiondescontoursdans
+uneimageetdel’algorithmetresholdpourlasegmentation.
+• Outils/Technologies: OpenCV,C++
+• Lien: Contour-segmentation-images
+Segmentationsémantiquepourlaconduiteautomatisée
+• Utilisationd’unréseaudeneuroneconvolutifbasésurMaskR-CNN
+pourdesapplicationsdeconduiteautomatisée.
+• Outils/Technologies: Python,Tensorﬂow,Réseauxdeneurone
+convolutif.
+Reconnaissanceautomatiquedesplaquesd’immatriculation
+• Détectionetreconnaissanceautomatiquedesplaques
+d’immatriculationentempsréel.
+• Outils/Technologies: YOLOV3,MLP,segmentation,python
+Développementlogiciel
+• Applicationwebderéservationenlignedesalled’événements.
+• Outils/Technologies:JavaEE,SpringSourceToolsuite,MySQL,
+Bootstrap.
+• Lien: ReservationSalle
+ Langagesdeprogrammation
+Python,Java,C++,C
+Basededonnées
+MySQL,PostgreSQL
+MachineLearning
+Pandas,R,KNN,NLP,Classiﬁcation,
+Regression
+DeepLearning
+Tensorﬂow,Keras,CNN,RNN
+Traitementd’images
+OpenCV,Qt
+SimulationModélisationAgent
+GamaPlatform,Qgis
+ 3
+ 3
+ 3
+ 3
+ 3
+ 3
+ ○ ○ ○ ○ ○
+ LANGUES
+Français
+Anglais
+REFERENCE
+Dr.HOTuongVinh
+Directeuradjointdel’InstitutFrancophone
+InternationalàHanoi.
+(cid:211) +84904179787
+R ho.tuong.vinh@iﬁ.edu.vn
+ ○ ○ ○ ○ ○

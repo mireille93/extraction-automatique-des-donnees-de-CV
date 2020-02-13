@@ -1,0 +1,108 @@
+ HenriJ.Azemena
+ 144 Xuan Thuy, Cau Giay, Hanoi
+ R Bat C3 (second ﬂoor),
+(cid:211) +84 352 690 859
+Ǜ azemhenri@gmail.com
+ Langues
+Compétences
+ Français: langue maternelle
+Anglais: professionnel
+ Ɣ Systèmes multi-agents:
+- GAMA, GAIA , JADE
+Ɣ Langages de programmation :
+- Python, C, Arduino, Jade, Java,
+C++
+Ɣ Base de données:
+- Oracle, PostgreSQL, MySQL
+Ɣ Intelligence artiﬁcielle:
+- Computer Vision, Image Pro-
+cessing,DataScience,Robotique
+Ɣ Technologies:
+- OpenCV, TensorFlow, PyTorch,
+HARR, SSD
+Ɣ Epidémiologie :
+- Plate-forme EPICAM
+ Ɣ
+ Membre Sénior, chez Innovatech
+Association
+(www.innovation-
+tech.org).
+ Vie Associative
+Centresd’intérêts
+Ɣ Veille Technologique en IA et
+médecine.
+Développement durable et santé
+des populations.
+RobotiqueetModélisation-simula-
+tion des systèmes complexes.
+ Ɣ
+ Ɣ
+ Loisirs
+ https://sites.google.com/view/henr
+ Formation
+2018 – 2020 MASTERSIM(SystèmeIntelligentetMultimédia
+ à IFI - ULR
+Institut Francophone International rattaché à l’UNVH (Université
+nationalduVietnamàHanoï),endoublediplomationavecl’Université
+La Rochelle en France.
+2015 – 2016 MasterenInformatiqueFondamentale
+à UYD1
+Université de Yaoundé 1 au Cameroun.
+2013 – 2014 LicenceenMathématiques-Informatique
+Université de Dschang au Cameroun.
+ExpérienceProfessionnelle
+2019
+ à UDS
+ 2019
+ 2019
+ 2018
+ 2018
+ 2017 - 2019
+ 2015:
+2012-2014:
+ ComputerVision
+- Réalisation d’une application de reconnaissance d’objets à l’aide
+du descripteur SIFT.
+-Modélisationetsimulationdessystèmescomplexes
+Modélisation (GAIA) et simulation (sur la plateforme Gama) de la
+théorie de Darwin (Etude sur l’evolution naturelle des lapins) .
+MachineLearning
+- Comparaison des techniques d’apprentissage automatique dans la
+détection du spam par courrier électronique.
+ImageProcessing
+- Réalisation d’une Chaîne complète de traitement d’images cen-
+trée sur la segmentation (Pré-segmentation, Segmentation et Post-
+segmentation).
+Robotique
+-Réalisationàl’aidedesobjetsderécupérations,d’uneimprimante
+2Det 3Davecles étudiantspolytechniciensdans lecadrede leurs
+stages académiques chez innovatech association.
+Programmationélectroniqueetrobotique
+- Participation aux projets de conception et de fabrication des
+drones.
+- Formateur pour le programme infos Vacance (Initiation à la
+programmation avec les microcontrôleurs et robotique).
+- Formateur pour le programme FIPI (Futur Ingénieur de la Pro-
+grammation Informatique (Vulgarisation de la programmation
+électronique et de la robotique dans les établisement à travers les
+technologies Open Source).
+- Analyste électronicien au sein du programme KOBD.
+- Technicien réseau chez Open-IT SARL
+-Participation au projet PUbuntu: Personnalisation d’un système
+Linux pour la police camerounaise.
+-Participation auprès de M. Jiomekong (enseignant chercheur en
+informatique a l’Université e de Yaoundé1),au développement de
+la plateforme de surveillance de la tuberculose pour le Cameroun
+(https://github.com/UMMISCO/EPICAM)
+ Ɣ Photographie, animation musicale.
+Ɣ Lecture, voyage.
+Ɣ Football, natation, arts martiaux.
+ Directeur Adjoint à (IFI) Tél:+84904179787
+E-mail: ho.tuong.vinh@iﬁ.edu.vn
+Président de Innovatech Association Tel : (+237)675906494
+Email: jioﬁdelus@gmail.com
+ Références
+Dr HO Tuong
+Vinh
+Jiomekong
+Azanzi Fidel

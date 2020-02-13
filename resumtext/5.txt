@@ -1,0 +1,77 @@
+ Koffi Agbeka YEKPLE-DJILAN
+MASTER DE RECHERCHE EN SYSTEMES INTELLIGENTS ET MULTIMEDIA
+� linkedin.com/in/koffi-djilan-89b2bb94 � github.com/djilan
+� +84 865 784 8315 � djilankoffi@gmail.com
+� C3 (2ème étage), 144 Xuan Thuy, Cau Giay, Hanoi - Vietnam � Nationalité Togolaise
+� FORMATION
+ Avril 2018 :
+ 2018 – 2020 : Master en Informatique option Systèmes Intelligents et Multimédia de l’Institut Francophone Interna-
+tional (IFI), UNIVERSITÉ NATIONALE du VIETNAM (UNV) en double Diplomation avec l’UNIVERSITE de La
+ROCHELLE, FRANCE (ULR) Hanoi, VIETNAM
+Licence Professionnelle en Gestion Informatique et Réseaux (GIR), Institut Polytechnique DEFITECH
+Lomé, TOGO
+Attestation de fin de formation en CISCO CCNA Routage et commutation : Initiation aux réseaux Co-
+organisée par l’Académie NETACAD et l’Institut Polytechnique DEFITECH , Institut Polytechnique DEFI-
+TECH Lomé, TOGO
+� PROJETS ACADÉMIQUES
+MODÉLISATION ET SIMULATION DE L’ÉVACUATION D’INCENDIE DANS DE GRANDS BÂTIMENTS PUBLICS
+ Novembre
+2016 :
+ 2018 - 2019
+ Simulation d’un modèle pour l’évacuation de bâtiment public avec la plateforme GAMA avec le feu, la fumée et les alarmes.
+ ∠ Création du modèle à base d’agent (ABM) et du 3DGIS DATASET
+∠ Intégration des ABM et du 3DGIS DATASET dans GAMA pour la géo-simulation multi-agents
+ draw.io UML
+ Autocad
+ shapefiles QGIS
+ 3D Object
+ Postgis GAMA Platform
+ WEB SCRAPING : SCRAPER LES DONNÉES D’UN SITE WEB
+ MARS 2019
+ ∠ Pré-traitement des données puis stockage dans un fichier (csv)
+∠ prédiction sur le prix de vente
+ Import io Magic
+ Extractor
+ Jupyter (Python)
+ Spotfire (Data Visualisation)
+ Random Forest
+ SVM Linear Regression .
+ � EXPÉRIENCE PROFESSIONELLE
+ Juillet 2017
+Sep 2018
+ Juillet 2013
+Février 2016
+ Responsable Technique, INSTITUT ABBE ROMAIN DAÏ , Abidjan, COTE D’IVOIRE
+ ∠ Installation et configuration des matériels médicaux et informatiques
+∠ Administration de base de données de suivi des patients et analyse des résultats
+ Informaticien & Administrateur Informatique, SOCIÉTÉ DES TRANSPORTS DE LOMÉ (SOTRAL), TOGO
+ ∠ Mise en place, administration et maintenance du réseau informatique de la Sotral
+∠ Réalisation d’une application de suivi de mission (JAVA, Hibernate, Spring, Mysql, swing)
+∠ Conception, réalisation et traitement des d’enquêtes (Papillon, CoCliQuot et sur les pôles d’échanges)
+ � COMPÉTENCES
+ Langage de programmation :
+ Python, C++, R, Java, Langage GoLand
+ Visualisation et Scraping : Matplotlib, Seaborn, Beautifulsoup, Selenium, Scrapy
+ Machine learning :
+Deep Learning et Visualisation des donnèes :
+ Bases de données et Big Data : MySQL, PostgreSQL, SQL Server, Spark.
+Scikit-Learn , Pandas , Numpy, openCv
+(Keras, TensorFlow), Dataiku, Spotfire, Qlikview, Tableau, PowerBI, MXNet.
+ Plate forme de simulation : Gama Platform, Autocad, Blender, Unity.
+ Logiciels et Frameworks Big Data :
+ Apache Hadoop : HDFS, Hive. Spark : Scala, pyspark
+ � LANGUES
+ Français ○ ○ ○ ○ ○
+Anglais ○ ○ ○ � �
+ � RÉFÉRENCES
+Dr HO Tuong Vinh
+Directeur Adjoint à l’IFI, HANOI, VIETNAM
+ � ho.tuong.vinh@ifi.edu.vn
+� +84 904 179 787
+ + FORCES ET INTÉRÊTS PERSONNELS
+ ∠ Passionné, autonome et Force de propositions
+∠ Football, cinéma, voyage, nouvelles technologies
+ Yao Jérôme EKOUE KOVI
+IT Head & Risk Manager, NSIA Assurances, LOME, TOGO
+ � Jerome.ekoue@groupensia.com
+� BP : 1120, tel : +228 90 18 03 01

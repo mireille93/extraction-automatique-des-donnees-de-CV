@@ -1,0 +1,119 @@
+ ‰ Yaounde,Cameroon
+ ‰ Ngaoundere,Cameroon
+ ﬂ www.linkedin.com/in/timothée-bohinbo
+ TECHNICALSKILLS
+*AnacondaandhisapplicationsJupyter
+Notebook/Spyderandhis
+libraries(numpy,pandas,matplotlib,scikitlearn)
+*Deeplearning[TensorFlow(Keras)]
+*Datamining(Tanagra)
+*Dataintegration(TalendOpenStudio(TOS))
+*Reporting(QlikView)
+*Database(MySQL/PostgreSQL/Sqlserver)
+*ProgramationlanguagesandFrameworks
+(Python(PyCharm),C++,Java(Eclipse),PHP,Html,
+Javascript,Css,WordPress,Yii2)
+*Dimensionalmodeling/Datawarehouse
+*ModelingMulti-agentSystems(GAML)
+*ComputerVision(OpenCVLibrary)
+*BPM(BizagiModeler/Bonitasoft)
+*Projectmanagement(GANTT/BurndownChart)
+*Methods(UML,MERISE)(Agile/Scrum)
+*Latex&MSOce(Excel,Access,Word,etc)
+PRIDE
+ M.TimothéeBOHINBO
+Activelylookingforaninternship(Masterlevel)inDataSciencesforadurationof06
+monthsfromFebruary2020
+‰ Mobility: AllFrance,Luxembourg,Belgium,CanadaandSwitzerland
+(cid:211) (+84)936150214
+Ǜ timothee_p23@i.edu.vn
+‰ 144XuanThuy-Caugiay-Hanoi,Vietnam
+ƞ DrivinglicenceB
+TRAINING
+Master2inIntelligentSystemsandMultimediaindoublegraduationwiththe
+courseDigitalContentEngineeringinBusiness
+InstituteFrancophoneInternational(IFI)-VietnamNationalUniversity,Hanoi
+(VNU)/LaRochelleUniversity(France)
+(cid:17) 2018-2020
+‰ Hanoi,Vietnam
+ComputerWorksEngineer,SoftwareEngineeringOption
+Africaninstituteofcomputersciences(IAI-Cameroun)
+(cid:17) 2013-2017
+GeneralBachelor’sdegree
+ProtestantCollege(COLPROT)
+(cid:17) 2012-2013
+MASTER’SSTUDENTPROJECTS
+• Emailsclassicationwithsupervisedlearningmethods
+Algorithmsused:
+-Naivebayesmultinomial,
+-SVM(SuportVectorMachine);
+-Randomforests)
+(Technologies: Pandas,sklearn,numpy,matplotlib)-packagelink
+• DataminingonaDatasetdealingwiththevaluationofrealestateproperties;
+Algorithmused:
+-Multiplelinearregression;
+(Technology: Tanagra)-reportlink
+• ArticialIntelligenceSimulationandmodellingofmulti-agentsystems-
+Designingandimplementingairpollutioninurbanenvironments;
+(Technology: GAMAPlatform)-reportlinkandcode
+• C++programthatpresentstheintensityproleandcontrastenhancementof
+animage
+(Technology: OpenCV)-reportlinkandcode
+• DesignadashboardandTalendETLowsfordataintegration: caseofa
+shoppingcenter
+(Technologies: QlikViewandTalend)
+MACHINELEARNINGANDDEEPLEARNINGALGORITHMSUSED
+• NeuralNetworks
+• Randomforest
+• Naivebayesmultinomial
+• SVM(SupportVectorMachine)
+• NearestNeighbors
+• Multiplelinearregression
+WORKEXPERIENCE
+BIAnalystDeveloper
+PALAISDELAMICRO
+(cid:17) September2017-January2018
+• Denitionofcustomerneedsandspecicities;
+ STRENGTHS
+Curiousandhardworking
+DynamicandMotivated
+Organisedandpunctual
+FacultyofAnalysisandSynthesis
+PowerofProposal
+LANGUAGES
+French-nativetongue
+English-ProfessionalSkills
+Spanish-notions
+Japanese-notions
+REFERENCES
+ Evolution
+Takeyourdailylifetothenextlevelby
+learningnewtechnicalandscientic
+knowledge
+ ǡ
+ ‰ Yaounde,Cameroon
+ DrHOTUONGVinh
+https://sites.google.com/view/hotuongvinh
+InternationalFrancophoneInstitute(IFI)/
+VietnamNationalUniversity(VNU)
+ Ʌ
+ ƃ
+ ‰ Yaounde,Cameroon
+ • Datacollectionandstorage(retrieval)thendistributionandexploitation
+(restitution);
+• DevelopmentofaQlikviewapplicationforequipmenttrackingandreporting
+(computersuppliesstore);
+PHPWebDeveloper
+InsuranceBrokerageCompanyKOMLUCIENASSURS.A
+(cid:17) 31/07/2017-30/09/2017
+• Collection,digitizationofdocumentsfortheimplementationoftheelectronic
+documentmanagement(EDM)application;
+• DatabaseAdministration;
+• Carryingoutfunctionaltests.
+MISCELLANEOUS
+Playfootball;
+Read;
+Travelling;
+Watchdocumentaries;
+Cycling;
+Listentomusic.
