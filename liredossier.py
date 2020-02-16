@@ -81,7 +81,7 @@ def listdirectory(pathtexte):
     ll = glob.glob(pathtexte+'/*') 
     print(ll)
     for j in ll: 
-        if os.path.isdir(i): fichiertexte.extend(listdirectory(j)) 
+        if os.path.isdir(j): fichiertexte.extend(listdirectory(j)) 
         else: fichiertexte.append(j) 
     return fichiertexte
 resumetexte=listdirectory(pathtexte)
